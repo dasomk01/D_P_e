@@ -1,0 +1,19 @@
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+}
+input, textarea, select {
+  display: block;
+  margin-bottom: 8px;
+  padding: 6px;
+  width: 100%;
+  max-width: 400px;
+}
+.hidden {
+  display: none;
+}
