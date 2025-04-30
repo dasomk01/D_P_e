@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "insulin 분비를 억제하는 상황이 아닌 것 두 가지는?",
+        "choices": [
+            "PKA inhibitor 처리",
+            "PKC inhibitor 처리",
+            "Ca2+ channel blocker 처리",
+            "K+ATP sensitive channel blocker 처리",
+            "Adenylyte clase inhibitor 처리",
+            "GLUT2 inhibitor 처리"
+        ],
+        "answer": [
+            1,
+            5
+        ],
+        "explanation_text": "1,5번이 정답입니다. 각각의 억제 메커니즘은 다음과 같습니다...",
+        "source": {
+            "type": "기출",
+            "year": 2023,
+            "reference": "박병현 교수님"
+        },
+        "chapter": [
+            "Ch19"
+        ],
+        "tags": [
+            "Insulin",
+            "호르몬 조절"
+        ],
+        "note": ""
+    }
+]
